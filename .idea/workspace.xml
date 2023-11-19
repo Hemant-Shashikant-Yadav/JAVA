@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3c94b0d3-5831-4f04-91c7-bd95d46d2ec0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Project/FoodWestReduction/mysql.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/FoodWestReduction/mysql.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/FoodWestReduction/temp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/FoodWestReduction/temp.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/SendSMS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alpha/sting/string1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Alpha/sting/string1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/FoodWestReduction/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/FoodWestReduction/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/FoodWestReduction/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/FoodWestReduction/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/FoodWestReduction/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/FoodWestReduction/FoodWestReduction.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/FoodWestReduction/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,22 +36,23 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2WQjQWUiIQ4g5gpptYefr22plpu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "Y:/Coding/JAVA"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;Y:/Coding/JAVA&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
